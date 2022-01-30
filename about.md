@@ -13,7 +13,7 @@ redirect_from:
 
 ![profile](/assets/img/profile.png){: width="180" height="180"}{:style="float: right;margin-right: 7px;margin-top: 5px; margin-bottom: 5px;"}
 
-이것저것 여러가지에 관심이 많은 예비 안드로이드 개발자👩‍💻
+이것저것 여러 가지에 관심이 많은 예비 안드로이드 개발자👩‍💻
 
 - 🌱 I’m currently learning [Design Pattern](https://github.com/Haeeul/kotlinProject) / [Kotlin](https://github.com/Haeeul/Study-Project-Kotlin)
 
