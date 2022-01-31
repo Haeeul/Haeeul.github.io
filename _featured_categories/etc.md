@@ -3,15 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Etc
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: etc
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  개발 외에 모든 것을 기록하는 공간🍭
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

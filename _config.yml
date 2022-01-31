@@ -24,7 +24,7 @@ title: 해을의 개발자국🐾
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  빠른 자료 검색과 재삽질 방지를 위해 이것저것 기록하는 공간
+  빠른 자료 검색과 재삽질 방지를 위해 이것저것 기록하는 공간🔥
 
 # A shorter description for the sidebar.
 tagline: 개발 경험치 쌓는중
@@ -49,10 +49,12 @@ author:
 menu:
   - title: About
     url: /about/
-  - title: Project
-    url: /example/
+  - title: Projects
+    url: /projects/
   - title: Blog
-    url: /docs/
+    url: /blog/
+  - title: Etc
+    url: /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -77,8 +79,8 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
@@ -326,6 +328,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
   - jekyll-avatar
+  - jekyll-paginate
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
