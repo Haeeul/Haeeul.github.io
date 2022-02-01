@@ -10,12 +10,24 @@ permalink: /blog/
 
 ## Android
 
-- 1
+- [Android]{:.heading.flip-title} --- LifeCycle, Design Pattern 등 android 관련👩‍💻
+- [View]{:.heading.flip-title} --- UI/UX 라이브러리 등 view 관련🍋
 
 ## Language
 
-- 1
+- [Kotlin]{:.heading.flip-title}
+- [Java]{:.heading.flip-title}
+- [Python]{:.heading.flip-title}
 
 ## Other
 
-- 1
+- [Git/GitHub]{:.heading.flip-title} --- Git 사용법, 명령어, 블로그 생성 등 Git-GitHub 관련😼
+- [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이🔗
+
+[android]: /blog/android
+[view]: /blog/view
+[kotlin]: /blog/kotlin
+[java]: /blog/java
+[python]: /blog/python
+[git/github]: /blog/git-github
+[algorithm]: /blog/algorithm
