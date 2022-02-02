@@ -54,7 +54,7 @@ menu:
   - title: Blog
     url: /blog/
   - title: Etc
-    url: /etc/
+    url: /etc
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -167,7 +167,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics: G-6G2QZCD1FS
+google_analytics: UA-219263523-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
