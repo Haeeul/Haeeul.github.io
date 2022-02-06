@@ -19,10 +19,18 @@ description: >
 * toc
 {:toc}
 
-## 💡GitHub 블로그 생성
-
 실습 표시 : 🥨  
 (🥨 표시는 실습 부분임을 뜻합니다)
+
+## 💡GitHub Pages란?
+
+우리가 흔히 **GitHub 블로그**라고 부르는 이 서비스의 정식 명칭은 <span style="background-color:#fff5b1">**GitHub Pages**</span>입니다.
+
+GitHub Pages는 GitHub의 **Repository(저장소)에서 파일을 가져와 정적 웹 사이트를 호스팅해주는 서비스**로 GitHub에서 제공하고 있습니다.
+
+public 저장소에 한해서 무료로 이용 가능하며, private 저장소를 호스팅하려면 GitHub 계정이 Pro 이상이여야 합니다.
+
+## 💡GitHub 블로그 생성
 
 ### 1. 새로운 Repository 생성
 
@@ -42,7 +50,9 @@ description: >
 
 레포명의 첫 부분이 <span style="background-color:#ffdce0">**사용자 이름과 일치하지 않으면 블로그가 작동하지 않을 수 있다**</span>고 하니 정확하게 적어주세요.
 
-저는 username이 Haeeul2라는 부계정을 이용해서 만들었습니다.
+또한 <span style="background-color:#ffdce0">**pro 이상의 계정이 아닌 경우, private로는 블로그 이용이 불가능하니**</span> 꼭 public으로 설정해 주세요.
+
+저는 username이 Haeeul2라는 부계정을 이용하여 만들었습니다.
 
 README는 체크하지 않아도 상관없으나, 다음 단계에서 clone 확인용으로 편의상 추가했습니다.
 
@@ -168,5 +178,6 @@ $ git push -u origin main
 
 ## 👍 참고
 
-- [GitHub 공식문서](https://pages.github.com/)
+- [GitHub Pages 사이트](https://pages.github.com/)
+- [GitHub Pages 공식 문서](https://docs.github.com/en/pages/getting-started-with-github-pages)
 - [왕초보를 위한 Github 블로그 만들기(1)](https://zeddios.tistory.com/1222)
