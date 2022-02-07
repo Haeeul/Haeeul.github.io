@@ -14,7 +14,7 @@ description: >
 
 안녕하세요, 해을입니다🦖
 
-이번 글에서는 **GitHub 블로그 만드는 방법**에 대해 알아보겠습니다!
+이번 글에서는 <span style="background-color:#f1f8ff">**GitHub 블로그 만드는 방법**</span>에 대해 알아보겠습니다!
 
 * toc
 {:toc}
@@ -26,9 +26,9 @@ description: >
 
 우리가 흔히 **GitHub 블로그**라고 부르는 이 서비스의 정식 명칭은 <span style="background-color:#fff5b1">**GitHub Pages**</span>입니다.
 
-GitHub Pages는 GitHub의 **Repository(저장소)에서 파일을 가져와 정적 웹 사이트를 호스팅해주는 서비스**로 GitHub에서 제공하고 있습니다.
+GitHub Pages는 GitHub의 **Repository(저장소)에서 파일을 가져와 정적 웹 사이트를 호스팅 해주는 서비스**로 GitHub에서 제공하고 있습니다.
 
-public 저장소에 한해서 무료로 이용 가능하며, private 저장소를 호스팅하려면 GitHub 계정이 Pro 이상이여야 합니다.
+public 저장소에 한해서 무료로 이용 가능하며, private 저장소를 호스팅 하려면 GitHub 계정이 Pro 이상이여야 합니다.
 
 ## 💡GitHub 블로그 생성
 
@@ -168,13 +168,15 @@ $ git push -u origin main
 
 아직 헬(로) 월드뿐이긴 하지만 채워나갈 생각에 설레지 않나요😝
 
-다음 글에서는 <span style="background-color:#f6f8fa">**테마 적용하는 법**</span> 에 대해서 소개해 드리도록 하겠습니다.
+다음 글에서는 <span style="background-color:#f1f8ff">**Jekyll 설치**</span>에 대해서 소개해 드리도록 하겠습니다.
 <br/><br/><br/>
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
+<br/><br/><br/>
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (2) - Jekyll 설치](/blog/git-github/2022-02-05-github_blog(2))
 
 ## 👍 참고
 
