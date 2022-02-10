@@ -9,7 +9,7 @@ date: 2022-02-04 00:49:00 +0900
 categories: git-github
 tags: [GitHub Pages, GitHub blog]
 description: >
-  GitHub 블로그 만들기 첫 단계 🥨
+  🥨 GitHub Pages에 대해 알아보고 블로그를 생성해 봅니다.
 ---
 
 안녕하세요, 해을입니다🦖
@@ -22,7 +22,7 @@ description: >
 실습 표시 : 🥨  
 (🥨 표시는 실습 부분임을 뜻합니다)
 
-## 💡GitHub Pages란?
+## 💡 GitHub Pages란?
 
 우리가 흔히 **GitHub 블로그**라고 부르는 이 서비스의 정식 명칭은 <span style="background-color:#fff5b1">**GitHub Pages**</span>입니다.
 
@@ -30,7 +30,7 @@ GitHub Pages는 GitHub의 **Repository(저장소)에서 파일을 가져와 정�
 
 public 저장소에 한해서 무료로 이용 가능하며, private 저장소를 호스팅 하려면 GitHub 계정이 Pro 이상이여야 합니다.
 
-## 💡GitHub 블로그 생성
+## 💡 GitHub 블로그 생성
 
 ### 1. 새로운 Repository 생성
 
@@ -68,11 +68,11 @@ README는 체크하지 않아도 상관없으나, 다음 단계에서 clone 확�
 ```
 $ git clone (Repository 주소) .
 
-// 예시
+// 예시(터미널 붙여넣기 단축키 - Shift + Ins)
 $ git clone https://github.com/Haeeul2/Haeeul2.github.io.git .
 ```
 
-> 📌 **git clone (Repository 주소) .**  
+> 📌 **git clone (Repository 주소) <span style="background-color:#fff5b1">.</span>**  
 > 맨 뒤에 마침표를 붙이지 않으면 원격 저장소 이름의 새로운 폴더가 생기고 그 폴더 안에 파일이 내려받아집니다.  
 > 필수는 아니지만 폴더 구조가 복잡해지므로 추가하는 것을 추천드립니다!
 
@@ -101,7 +101,7 @@ window 기준 : [보기] - [표시] - [숨긴 항목]
 🥨 clone한 폴더로 **(README.md 파일이 있는 곳)** 이동 후, **index.html** 파일을 생성합니다.
 
 ```
-// 🥨 터미널에서 현재 위치 확인 및 이동
+// 터미널에서 현재 위치 확인 및 이동
 $ cd username.github.io
 
 $ echo "Hello World" > index.html
