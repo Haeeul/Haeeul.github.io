@@ -66,10 +66,10 @@ README는 체크하지 않아도 상관없으나, 다음 단계에서 clone 확�
 터미널을 실행하여 **Repository를 clone**합니다.
 
 ```
-$ git clone (Repository 주소) .
+git clone (Repository 주소) .
 
 // 예시(터미널 붙여넣기 단축키 - Shift + Ins)
-$ git clone https://github.com/Haeeul2/Haeeul2.github.io.git .
+git clone https://github.com/Haeeul2/Haeeul2.github.io.git .
 ```
 
 > 📌 **git clone (Repository 주소) <span style="background-color:#fff5b1">.</span>**  
@@ -102,9 +102,9 @@ window 기준 : [보기] - [표시] - [숨긴 항목]
 
 ```
 // 터미널에서 현재 위치 확인 및 이동
-$ cd username.github.io
+cd username.github.io
 
-$ echo "Hello World" > index.html
+echo "Hello World" > index.html
 ```
 
 > 📌 **cd (폴더명)**  
@@ -132,11 +132,11 @@ $ echo "Hello World" > index.html
 🥨 아래 명령어를 사용하여 **원격 저장소에 변경사항(index 파일 추가)을 push** 합니다.
 
 ```
-$ git add --all
+git add --all
 
-$ git commit -m "Initial commit"
+git commit -m "Initial commit"
 
-$ git push -u origin main
+git push -u origin main
 ```
 
 > 📌 **git add --all**  

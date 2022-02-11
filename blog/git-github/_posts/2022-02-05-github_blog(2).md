@@ -57,14 +57,16 @@ GitHub에서 추천하는 도구인 Jekyll에는 무료로 제공되는 테마�
 
 ```
 // Ruby 설치 확인 명령어
-$ ruby -v
+ruby -v
 ```
 
 Jekyll은 Ruby 기반이기 때문에 <span style="background-color:#ffdce0">**Jekyll 먼저 설치하면 오류가 발생하므로**</span> 명령어를 사용하여 Ruby의 설치 여부부터 확인합니다.
 
 🥨 Ruby가 없는 경우, 공식 사이트에서 [설치 방법](https://www.ruby-lang.org/ko/documentation/installation/)을 확인 후, os에 맞게 설치를 진행합니다.
 
-**(Windows 기준) 설치 과정**
+<details> 
+<summary>(Windows 기준) 설치 과정 펼치기</summary>
+<div markdown="1">
 
 1. [다운로드 페이지]((https://rubyinstaller.org/))에 들어가서 **'=>' 표시가 있는 Installer를 다운로드한 후, 실행**합니다.
 
@@ -86,36 +88,48 @@ Jekyll은 Ruby 기반이기 때문에 <span style="background-color:#ffdce0">**J
 
     ![GitHub블로그2-ruby설치확인](https://user-images.githubusercontent.com/39720852/152683522-16338f0b-9b14-4062-a999-82f1be8ed49f.png)
 
+</div>
+</details>
+
 ### 2. Jekyll 설치
 
-🥨 1. 터미널 실행 후, 명령어를 입력하여 **Jekyll을 설치**합니다.
+#### ① Jekyll 설치
+
+🥨 터미널 실행 후, 명령어를 입력하여 **Jekyll을 설치**합니다.
 
 ```
-$ gem install jekyll bundler
+gem install jekyll bundler
 ```
 
-🥨 2. index.html과 README.md **파일을 삭제**합니다.
+#### ② 파일 삭제
+
+🥨 index.html과 README.md **파일을 삭제**합니다.
 
 ![GitHub블로그2-파일제거](https://user-images.githubusercontent.com/39720852/152684112-7296a5a1-9523-4926-b6fa-0e97b6b58ff3.png)
 
-🥨 3. 파일들을 삭제한 위치에서 터미널을 실행하여 **Jekyll을 생성**합니다.
+#### ③ Jekyll 생성
+
+🥨 파일들을 삭제한 위치에서 터미널을 실행하여 **Jekyll을 생성**합니다.
 
 ```
-$ jekyll new ./
+jekyll new ./
 ```
 
 ![GitHub블로그2-jekyll생성](https://user-images.githubusercontent.com/39720852/152684517-dc053381-ccce-4d2e-b2f0-f40ed16e6de0.png)
 
-🥨 4. **bundle을 설치**합니다.
+#### ④ bundle 설치
+
+🥨 **bundle을 설치**합니다.
 
 ```
-$ bundle install
+bundle install
 ```
 
-🥨 5. **로컬 서버를 실행**합니다.
+#### ⑤ 로컬 서버 실행
+🥨 **로컬 서버를 실행**합니다.
 
 ```
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 저는 이 단계에서 <span style="background-color:#ffdce0">**2가지 오류**</span>가 발생했고, 아래와 같은 방법으로 해결했습니다.
@@ -131,25 +145,27 @@ $ bundle exec jekyll serve
 
 > 📌 **해결) bundle add webrick 명령어 실행**
 > ```
-> $ bundle add webrick
+> bundle add webrick
 > ```
 
-🥨 6. 브라우저에서 **로컬 서버 주소를 확인**해 봅니다.
+#### ⑥ 로컬 서버 확인
+
+🥨 브라우저에서 **로컬 서버 주소를 확인**해 봅니다.
 
 ![GitHub블로그2-로컬주소](https://user-images.githubusercontent.com/39720852/152688667-64db2677-d032-4222-92f8-39b7a8cb6277.png)
 
 ![GitHub블로그2-로컬주소확인](https://user-images.githubusercontent.com/39720852/152688733-842e3809-dfe4-4eed-8699-8ab31d3f0499.png)
 
-🥨 (선택) 7.원격 저장소에 push
+#### ⑦ (선택) commit/push
 
-아래 명령어를 사용하여 원격 저장소에 push 하면 username.github.io 주소에 반영됩니다.
+🥨 원격 저장소에 push하면 username.github.io 주소에 반영됩니다.
 
 ```
-$ git add --all
+git add --all
 
-$ git commit -m "Jekyll 설치"
+git commit -m "Jekyll 설치"
 
-$ git push -u origin main
+git push -u origin main
 ```
 
 지금 commit/push 하셔도 좋고 테마 적용까지 한 이후에 하셔도 괜찮습니다.
