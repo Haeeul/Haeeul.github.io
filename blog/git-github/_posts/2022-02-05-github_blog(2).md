@@ -10,6 +10,9 @@ categories: git-github
 tags: [GitHub Pages, GitHub blog, Jekyll]
 description: >
   🧪 Jekyll에 대해 알아보고 설치해 봅니다.
+related_posts:
+  - /blog/git-github/2022-02-04-github_blog(1)/
+  - /blog/git-github/2022-02-06-github_blog(3)/
 ---
 
 안녕하세요, 해을입니다🦖
