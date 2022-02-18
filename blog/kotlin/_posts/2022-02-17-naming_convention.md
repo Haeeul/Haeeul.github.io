@@ -2,14 +2,9 @@
 layout: post
 title: "다양한 코딩 표기법(카멜, 파스칼, 스네이크, 헝가리안, 케밥)"
 image: https://user-images.githubusercontent.com/39720852/154499954-c028164e-12a5-4aff-8132-7544d80d4704.png
-# accent_image:
-#   background: url(https://user-images.githubusercontent.com/39720852/152405232-29b296d1-653c-4505-ad3c-07fd5a680d17.png) center/cover
-#   overlay: true
 date: 2022-02-17 22:19:00 +0900
 categories: kotlin
 tags: [camel case, pascal case, snake case, hungarian notation, kebab case]
-# description: >
-#   🎨 GitHub 블로그를 커스터마이징합니다.
 ---
 
 안녕하세요, 해을입니다🦖
@@ -28,6 +23,8 @@ tags: [camel case, pascal case, snake case, hungarian notation, kebab case]
 포스팅을 위해 검색해 보니 다른 언어에서 사용하는 표기법까지 꽤 종류가 많았는데요.
 
 본인이 사용하는 언어와 규칙에 맞는 적절한 표기법을 사용하는 것이 중요한 것 같습니다.
+
+![naming_convention_table](https://user-images.githubusercontent.com/39720852/154694069-c8183119-41d9-497b-b40b-8ecd6e033c2e.png){: width="600"}
 
 ### 1. 카멜 표기법(Camel Case) 🐪
 
