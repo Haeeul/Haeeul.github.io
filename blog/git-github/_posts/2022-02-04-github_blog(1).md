@@ -33,6 +33,16 @@ GitHub Pages는 GitHub의 **Repository(저장소)에서 파일을 가져와 정�
 
 public 저장소에 한해서 무료로 이용 가능하며, private 저장소를 호스팅 하려면 GitHub 계정이 Pro 이상이여야 합니다.
 
+## 💡 준비하기
+
+### 1. git 설치
+
+🥨 git이 [설치](http://git-scm.com/download/win)되어 있어야 합니다.
+
+### 2. Visual Studio Code 설치
+
+🥨 편집기는 [vscode](https://code.visualstudio.com/)를 사용합니다.
+
 ## 💡 GitHub 블로그 생성
 
 ### 1. 새로운 Repository 생성
