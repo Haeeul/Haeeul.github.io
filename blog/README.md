@@ -5,7 +5,7 @@ description: >
   빠른 자료 검색과 재삽질 방지를 위해 이것저것 기록하는 공간🔥
 hide_description: false
 sitemap: false
-permalink: /blog/
+permalink: /blog
 ---
 
 ## Android

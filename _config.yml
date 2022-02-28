@@ -48,11 +48,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title: About
-    url: /about/
+    url: /about
   - title: Projects
-    url: /projects/
+    url: /projects
   - title: Blog
-    url: /blog/
+    url: /blog
   - title: Etc
     url: /etc
 

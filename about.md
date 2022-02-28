@@ -16,7 +16,6 @@ redirect_from:
 이것저것 여러 가지에 관심이 많은 예비 안드로이드 개발자👩‍💻
 
 - 🌱 I’m currently learning [Design Pattern](https://github.com/Haeeul/kotlinProject) / [Kotlin](https://github.com/Haeeul/Study-Project-Kotlin)
-
 - 🤝 I’m looking for help with Algorithm([Java](https://github.com/Haeeul/Algorithm_java),[Python](https://github.com/Haeeul/Algorithm-Python))
 - 📫 How to reach me **[etoilune00@gmail.com](mailto:etoilune00@gmail.com)**
 - ⚡ Fun fact **I love dinosaurs**🦖🦕

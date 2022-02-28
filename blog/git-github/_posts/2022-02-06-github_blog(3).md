@@ -10,6 +10,9 @@ categories: git-github
 tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme]
 description: >
   🎨 GitHub 블로그에 테마를 적용해 봅니다.
+related_posts:
+  - /blog/git-github/2022-02-05-github_blog(2)/
+  - /blog/git-github/2022-02-07-github_blog(4)/
 ---
 
 안녕하세요, 해을입니다🦖
