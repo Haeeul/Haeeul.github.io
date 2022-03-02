@@ -13,6 +13,7 @@ description: >
 related_posts:
   - /blog/git-github/2022-02-05-github_blog(2)/
   - /blog/git-github/2022-02-06-github_blog(3)/
+  - /blog/git-github/2022-02-07-github_blog(4)/
 ---
 
 안녕하세요, 해을입니다🦖
