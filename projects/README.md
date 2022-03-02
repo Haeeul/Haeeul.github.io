@@ -18,6 +18,7 @@ permalink: /projects
 - **( 2019 )** 시각장애인 쇼핑 도움 앱 - 쇼우미
 - **( 2020 )** 건강기능식품 플랫폼 - [케디(Care-Direction)](https://github.com/CareDirection/CareDirection-Android)
 - **( 2021 )** 세입자 임대인 소통 서비스 - [하우징(Housing)](https://github.com/teamHousing/Housing_Android)
+- **( 2022 )** 향수 정보 서비스 - [어퓸(A.fume)](https://github.com/A-fume/A.fume.Android)
 
 ## 🔥 서버
 
