@@ -1,4 +1,5 @@
 ---
+#006
 layout: post
 title: "GitHub 블로그 만들기 (5) - 블로그 게시글 작성"
 image: https://user-images.githubusercontent.com/39720852/156108961-1fdae226-7431-4c61-a0e7-e14b004ecf4c.png
@@ -13,6 +14,7 @@ description: >
 related_posts:
   - /blog/git-github/2022-02-06-github_blog(3)/
   - /blog/git-github/2022-02-07-github_blog(4)/
+  - /blog/git-github/2022-02-09-github_blog(6)/
 ---
 
 안녕하세요, 해을입니다🦖
@@ -201,8 +203,8 @@ html 문법을 사용하여 글자의 색 또는 배경색을 변경할 수 있�
 
 끝!🦕
 <br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (6) - 블로그 댓글 기능](/blog/git-github/2022-02-06-github_blog(6))
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (6) - 블로그 댓글 기능](/blog/git-github/2022-02-09-github_blog(6))
 
 ## 👍 참고
 
-* [GitHub Pages 사이트](https://pages.github.com/)
+* [Hydejack 공식문서](https://hydejack.com/docs/)

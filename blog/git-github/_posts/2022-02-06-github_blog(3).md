@@ -1,4 +1,5 @@
 ---
+#004
 layout: post
 title: "GitHub 블로그 만들기 (3) - Jekyll 테마 적용"
 image: https://user-images.githubusercontent.com/39720852/153595323-25bae3b4-5715-4911-b5cd-fa873dd99c4e.png
@@ -7,7 +8,7 @@ accent_image:
   overlay: true
 date: 2022-02-06 19:38:00 +0900
 categories: git-github
-tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme]
+tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, Hydejack theme]
 description: >
   🎨 GitHub 블로그에 테마를 적용해 봅니다.
 related_posts:

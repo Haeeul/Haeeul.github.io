@@ -1,4 +1,5 @@
 ---
+#002
 layout: post
 title: "GitHub 블로그 만들기 (1) - 블로그 생성"
 image: https://user-images.githubusercontent.com/39720852/152404568-b2da4b99-b9b1-4bcb-8c94-a2fea473c9db.png
@@ -15,6 +16,7 @@ related_posts:
   - /blog/git-github/2022-02-06-github_blog(3)/
   - /blog/git-github/2022-02-07-github_blog(4)/
 ---
+
 
 안녕하세요, 해을입니다🦖
 
