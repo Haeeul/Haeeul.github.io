@@ -6,11 +6,15 @@ image: https://user-images.githubusercontent.com/39720852/156387687-48397e83-3d7
 accent_image:
   background: url(https://user-images.githubusercontent.com/39720852/152405232-29b296d1-653c-4505-ad3c-07fd5a680d17.png) center/cover
   overlay: true
-date: 2022-02-09 00:03:00 +0900
+date: 2022-02-09 01:03:00 +0900
 categories: git-github
 tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, utterances]
 description: >
   📝 GitHub 블로그에 댓글 기능을 추가합니다.
+related_posts:
+  - /blog/git-github/2022-02-07-github_blog(4)/
+  - /blog/git-github/2022-02-08-github_blog(5)/
+  - /blog/git-github/2022-02-10-github_blog(7)/
 ---
 
 안녕하세요, 해을입니다🦖
