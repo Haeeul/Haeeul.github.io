@@ -5,7 +5,7 @@ description: >
   참여했던 플젝들에 대해서 자세히 기록하는 공간✨
 hide_description: false
 sitemap: false
-permalink: /projects
+permalink: /projects/
 ---
 
 ## 🔥 기획

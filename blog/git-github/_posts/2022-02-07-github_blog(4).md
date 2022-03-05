@@ -169,7 +169,7 @@ Favicon은 아래와 같이 **웹 브라우저 주소창에 표시되는 아이�
 
 저는 많은 분들이 주로 사용하시는 about(소개 페이지), projects, blog, etc 4가지 항목으로 설정했습니다.
 
-![image](https://user-images.githubusercontent.com/39720852/155845722-db71743a-c100-423f-bd3f-9cb9e64a4aef.png)
+![image](https://user-images.githubusercontent.com/39720852/156886673-cb4f46be-0289-4710-96cb-ad3ecc31bab5.png)
 
 * **title** : 메뉴명
 * **url** : 메뉴 경로
@@ -267,7 +267,7 @@ Powered by ~~ 부분을 html 형식대로 자유롭게 수정하시면 됩니다
 
 etc 카테고리를 추가하기 위해 **_featured_categories 폴더**에 있는 example.md의 파일명과 내용을 수정합니다.
 
-![image](https://user-images.githubusercontent.com/39720852/155886006-7ae83e7d-114d-4134-87e1-ed2a75c48ed0.png)
+![image](https://user-images.githubusercontent.com/39720852/156886853-c0ad1700-b2b9-455a-84a8-00ee0349195c.png)
 
 * **title** : 페이지 제목
 * **slug** : 게시글에 포함되는 경로 태그명
@@ -288,7 +288,7 @@ etc 카테고리를 추가하기 위해 **_featured_categories 폴더**에 있�
 
 ③ docs 폴더에서 README.md를 복사해온 뒤, 마크다운 문법에 맞춰 내용을 수정합니다.
 
-![image](https://user-images.githubusercontent.com/39720852/155977450-27583f95-3c2a-4c1e-ab77-fd991c661b70.png)
+![image](https://user-images.githubusercontent.com/39720852/156886930-bbc8fdfd-6ca8-485b-93f7-34d815f7ad92.png)
 
 #### 🥨 메뉴 및 카테고리 확인하기
 
