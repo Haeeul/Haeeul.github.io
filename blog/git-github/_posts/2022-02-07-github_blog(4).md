@@ -312,6 +312,14 @@ etc 카테고리를 추가하기 위해 **_featured_categories 폴더**에 있�
 
 ![image](https://user-images.githubusercontent.com/39720852/155986654-dbc6be8b-1aba-4abd-9344-e319db21f10c.png)
 
+### 8. 원격 저장소 commit/push
+
+🥨 원격 저장소에 push하면 username.github.io 주소에 반영됩니다.
+
+만약 블로그에 아무것도 나타나지 않는다면(흰 화면) **_config.yml 파일의 remote_theme 주석을 해제**하고 push 해주세요.
+
+![image](https://user-images.githubusercontent.com/39720852/156928085-e256b8e8-f0da-45f8-934d-14e105c3f33b.png)
+
 ---
 
 자! 이렇게 해서 Github 블로그 테마를 커스텀 해봤습니다.
