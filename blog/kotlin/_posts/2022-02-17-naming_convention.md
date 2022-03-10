@@ -1,4 +1,5 @@
 ---
+#010
 layout: post
 title: "다양한 코딩 표기법(카멜, 파스칼, 스네이크, 헝가리안, 케밥)"
 image: https://user-images.githubusercontent.com/39720852/154499954-c028164e-12a5-4aff-8132-7544d80d4704.png
@@ -90,8 +91,7 @@ tags: [camel case, pascal case, snake case, hungarian notation, kebab case]
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-<!-- 🔗 다음 글 바로가기 [GitHub 블로그 만들기 (2) - Jekyll 설치](/blog/git-github/2022-02-05-github_blog(2)) -->
+<br/>
 
 ## 👍 참고
 
