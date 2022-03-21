@@ -12,9 +12,9 @@ tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, analytics]
 description: >
   📝 GitHub 블로그에 구글 애널리틱스 기능을 추가합니다.
 related_posts:
-  - /blog/git-github/2022-02-07-github_blog(4)/
   - /blog/git-github/2022-02-08-github_blog(5)/
   - /blog/git-github/2022-02-09-github_blog(6)/
+  - /blog/git-github/2022-03-20-github_blog(8)/
 ---
 
 안녕하세요, 해을입니다🦖
@@ -142,23 +142,15 @@ Hydejack의 경우, UA로 시작하므로 **추적 ID**를 사용해야 합니�
 
 어떤 분들이 블로그에 방문해 주실지 무척 기대되지 않나요😝
 
-다음 글에서는 새로운 기능을 추가하게 되면 소개해 드리도록 하겠습니다.
-
-(급마무리)
-
-네,,, 사실 이번 글이 준비했던 블로그 시리즈의 마지막 글이었습니다,,ㅎ
-
-소개 드린 기능 외에도 블로그에 적용할 수 있는 것들이 무척 많지만 우선 필수적인 기능들만 포스팅했습니다.
-
-앞으로 블로그에 새로운 기능을 적용한다면 게시글로 꼭 공유드리겠습니다.
+다음 글에서는 구글에서 블로그를 검색할 수 있도록 하는 <span style="background-color:#f1f8ff">**구글 서치 콘솔**</span>에 대해서 소개해 드리도록 하겠습니다.
 <br/><br/><br/>
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/>
-<!-- 🔗 다음 글 바로가기 [GitHub 블로그 만들기 (7) - 블로그 구글 애널리틱스 기능](/blog/git-github/2022-02-09-github_blog(7)) -->
+<br/><br/><br/>
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (8) - 구글 서치 콘솔](/blog/git-github/2022-03-20-github_blog(8))
 
 ## 👍 참고
 
