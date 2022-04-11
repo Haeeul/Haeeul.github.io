@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Algorithm
+title: Bronze V
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: algorithm
+slug: bronze-V
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  알고리즘 박살내기🔗
+  백준 Bronze V 레벨 박살내기✍️
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /blog/algorithm
+permalink: /blog/algorithm/bronze-v
 ---
