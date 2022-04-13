@@ -7,6 +7,7 @@ categories: java
 tags: [Java, Scanner]
 related_posts:
   - /blog/algorithm/bronze-v/2022-04-01-Q1000/
+  - /blog/algorithm/bronze-v/2022-04-01-Q1001/
 ---
 
 안녕하세요, 해을입니다🦖
@@ -92,6 +93,12 @@ next()와 nextLine()은 같은 String 형을 읽는 메서드지만 읽는 방�
 
 ---
 
+자! 이렇게 해서 **Java의 Scanner 클래스**를 살펴봤습니다.
+
+쉬운 개념이지만 충분히 연습해야 실수 없이 사용할 수 있겠죠?😉
+
+글에서 소개한 주요 메서드 및 더욱 자세한 내용은 공식 문서에서 확인 가능합니다.
+<br/><br/><br/>
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
@@ -101,6 +108,6 @@ next()와 nextLine()은 같은 String 형을 읽는 메서드지만 읽는 방�
 
 ## 👍 참고
 
-* [Java 공식문서](https://docs.oracle.com/javase/9/docs/api/java/util/Scanner.html)
+* [Java 공식 문서](https://docs.oracle.com/javase/9/docs/api/java/util/Scanner.html)
 * [[Java] Scanner() 메서드 총정리](https://velog.io/@cse_pebb/Java-Scanner-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [자바 [JAVA] - 스캐너(Scanner) 클래스와 입력](https://st-lab.tistory.com/92)
