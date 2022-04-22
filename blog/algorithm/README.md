@@ -10,6 +10,8 @@ permalink: /blog/algorithm/
 
 ## BaekJoon
 
+- [Bronze IV]{:.heading.flip-title}
 - [Bronze V]{:.heading.flip-title}
 
+[Bronze IV]: /blog/algorithm/bronze-iv
 [Bronze V]: /blog/algorithm/bronze-v
