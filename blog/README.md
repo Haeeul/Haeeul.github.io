@@ -12,6 +12,7 @@ permalink: /blog/
 
 - [Android]{:.heading.flip-title} --- LifeCycle, Design Pattern 등 android 관련👩‍💻
 - [View]{:.heading.flip-title} --- UI/UX 라이브러리 등 view 관련🍋
+- [Error]{:.heading.flip-title} --- error 및 삽질 관련🛠️
 
 ## Language
 
@@ -26,6 +27,7 @@ permalink: /blog/
 
 [android]: /blog/android
 [view]: /blog/view
+[error]: /blog/error
 [kotlin]: /blog/kotlin
 [java]: /blog/java
 [python]: /blog/python
