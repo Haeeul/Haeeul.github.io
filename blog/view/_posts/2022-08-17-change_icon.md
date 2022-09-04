@@ -16,25 +16,23 @@ tags: [Android, view, icon, Adaptive icon]
 
 ## 💡 적응형 앱 아이콘이란?
 
-적응형 앱 아이콘은 **다양한 디바이스에서 여러 가지 형태로 표시될 수 있도록** Android 8.0(API 수준 26)부터 도입된 아이콘으로,
-
-2개의 레이어와 1개의 마스크를 사용하여 정의합니다.
-
 ![2022-09-04 23;25;19](https://user-images.githubusercontent.com/39720852/188318519-8f404e64-0c7d-4bd1-97ac-d37b6dd78360.gif){: width="500"}
+
+출처 developer.android.com
+{:.figcaption}
+
+적응형 앱 아이콘은 **다양한 디바이스에서 여러 가지 형태로 표시될 수 있도록** Android 8.0(API 수준 26)부터 도입된 아이콘으로, 2개의 레이어와 1개의 마스크를 사용하여 정의합니다.
+
+![2022-09-04 23;20;19](https://user-images.githubusercontent.com/39720852/188318598-61417aa6-84ea-45aa-84d1-0adfca381e2c.gif){: width="400"}
+
+![2022-09-04 23;38;36](https://user-images.githubusercontent.com/39720852/188319098-53e6b3fc-3647-46a8-bd2f-aa03177d4bac.gif)
 
 출처 developer.android.com
 {:.figcaption}
 
 기기마다 원형, 라운드형, 사각형, 모서리가 둥근 사각형 등으로 표시될 수 있으며,
 
-![image](https://user-images.githubusercontent.com/39720852/188319790-baf84e13-a253-4b27-8490-7b9980ad3608.png)
-
 상하좌우, 확대/축소 등 **다양한 시각 효과도 지원**합니다.
-
-![2022-09-04 23;38;36](https://user-images.githubusercontent.com/39720852/188319098-53e6b3fc-3647-46a8-bd2f-aa03177d4bac.gif)
-
-출처 developer.android.com
-{:.figcaption}
 
 ## 💡 적용하기
 
@@ -94,9 +92,11 @@ tags: [Android, view, icon, Adaptive icon]
 
 ## 💡 느낀 점
 
-이번 경험을 통해 **앱 발전에 따라 아이콘도 다양한 형태로 변화하고 있다는** 것을 깨닫게 되었습니다.
+이번 경험을 통해 **앱 발전에 따라 아이콘도 다양한 형태로 변화하고 있다는** 것을 깨닫게 되었는데요.
 
-안드로이드 개발자라면 앱에 관련된 모든 것에 관심을 가지는 것이 중요할 것 같네요!
+원리, 효과, 크기 등 적응형 아이콘에 대해 자세히 알 수 있었던 시간이었습니다.
+
+아이콘이 여러 형태로 표시 가능해지니 앱의 개성이 더욱 살아나는 것 같네요:)
 
 ---
 
