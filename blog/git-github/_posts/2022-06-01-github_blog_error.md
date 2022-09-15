@@ -46,16 +46,31 @@ github-pages 227 | Error:  The jekyll-theme-hydejack theme could not be found.
 
 ![image](https://user-images.githubusercontent.com/39720852/190167843-d9622695-8c1a-4164-9022-18f9f6375169.png)
 
+게시가 안되는 골치 아픈 에러에 비해 해결 방법은 매우 간단합니다.
 
-해결 방법은 간단합니다.
+**_config.yml 파일의 Theme 속성**을 아래와 같이 설정한 후에  **commit**하면 됩니다.
 
-**_config.yml 파일의 Theme 쪽에 있는 theme는 주석 처리, remote_theme는 주석 해제**하면 됩니다.
+* theme : 주석 O
+* remote_theme : 주석 X
+
+### 🥨 주의사항(로컬 작업 시)
+
+![image](https://user-images.githubusercontent.com/39720852/190448411-c117e45f-0c8b-453e-9600-796e1da2e1cd.png)
+
+단, **로컬**에서 블로그를 확인할 때는 **반대로** 설정해야 확인 가능합니다.
+
+* theme : 주석 O
+* remote_theme : 주석 X
 
 ---
 
+.
+
 자! 이렇게 해서 Github 블로그의 build error를 해결해 봤습니다.
 
-다음 글에서는 새로운 기능을 추가하게 되면 소개해 드리도록 하겠습니다.
+로컬과 리모트 설정이 꼬여서 발생한 에러였는데요.
+
+작업을 마친 후, 로컬 기준으로 설정한 파일을 함께 커밋하지 않도록 주의해야겠습니다.
 <br/><br/><br/>
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
