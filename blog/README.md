@@ -26,12 +26,12 @@ permalink: /blog/
 - [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이🔗
 - [Git/GitHub]{:.heading.flip-title} --- Git 사용법, 명령어, 블로그 생성 등 Git-GitHub 관련😼
 
-[android]: /blog/android
-[app]: /blog/app
-[view]: /blog/view
-[error]: /blog/error
-[kotlin]: /blog/kotlin
-[java]: /blog/java
-[python]: /blog/python
-[git/github]: /blog/git-github
+[android]: /blog/android/
+[app]: /blog/app/
+[view]: /blog/view/
+[error]: /blog/error/
+[kotlin]: /blog/kotlin/
+[java]: /blog/java/
+[python]: /blog/python/
+[git/github]: /blog/git-github/
 [algorithm]: /blog/algorithm
