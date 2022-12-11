@@ -1,7 +1,7 @@
 ---
 #102
 layout: post
-title: "[Android] 안드로이드 스튜디오 AVD 에뮬레이터 lock 에러 해결"
+title: "[Android] Error - 안드로이드 스튜디오 AVD 에뮬레이터 lock 에러 해결"
 date: 2022-09-20 12:24:00 +0900
 categories: error
 tags: [Android error, avd, emulator, lock]
@@ -11,7 +11,7 @@ tags: [Android error, avd, emulator, lock]
 
 이번 글에서는 <span style="background-color:#ffdce0">**안드로이드 스튜디오 AVD 에뮬레이터 lock 에러**</span>에 대해 알아보겠습니다!
 
-## 💡 에러 발생
+## 🚨 에러 발생
 
 ![image](https://user-images.githubusercontent.com/39720852/191164574-d64a9d39-7534-459d-869f-76079ec3e27d.png)
 
@@ -26,15 +26,15 @@ and try again.
 
 하루 전까지도 문제없이 실행되던 에뮬레이터에서 갑자기 error가 발생한 이유는 무엇일까요?
 
-## 💡 원인
+## ❓ 원인
 
-위 에러가 발생한 이유는 **에뮬레이터를 비정상적으로 종료했기 때문**이라고 합니다.
+위 에러가 발생한 이유는 **<span style="background-color:#fff5b1">에뮬레이터를 비정상적으로 종료했기 때문</span>**이라고 합니다.
 
 어제 외출을 하느라 노트북을 급하게 강제 종료한 것이 문제였던 것 같습니다.
 
-## 💡 해결
+## ❗ 해결
 
-**<span style="background-color:#fff5b1">AVD Manager에서 사용하던 에뮬레이터를 삭제하고 새로 만들어서 실행</span>**하니 정상적으로 작동되었습니다.
+**<span style="background-color:#dcffe4">AVD Manager에서 사용하던 에뮬레이터를 삭제하고 새로 만들어서 실행</span>**하니 정상적으로 작동되었습니다.dcffe4
 
 ## 💡 느낀 점
 

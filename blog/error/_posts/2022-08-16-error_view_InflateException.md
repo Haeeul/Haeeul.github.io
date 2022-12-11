@@ -11,7 +11,7 @@ tags: [Android error, InflateException, view]
 
 이번 글에서는 <span style="background-color:#ffdce0">**android.view.InflateException**</span>에 대해 알아보겠습니다!
 
-## 💡 에러 발생
+## 🚨 에러 발생
 
 ![image](https://user-images.githubusercontent.com/39720852/184814064-ef316756-c3a5-4735-8d88-bfcb0d4f6360.png)
 
@@ -27,9 +27,9 @@ splash 동작 이후에 업데이트 확인용 다이얼로그를 추가하기 �
 
 지금까지 다른 뷰에서도 문제없이 Material Button을 잘 사용했는데, 갑자기 error가 발생한 이유가 무엇일까요?
 
-## 💡 원인
+## ❓ 원인
 
-위 에러가 발생한 이유는 **Material 테마가 아닌 Activity에서 Material 컴포넌트를 사용했기 때문**이라고 합니다.
+위 에러가 발생한 이유는 **<span style="background-color:#fff5b1">Material 테마가 아닌 Activity에서 Material 컴포넌트를 사용했기 때문</span>**이라고 합니다.
 
 관련 파일들을 살펴보니 아래와 같이 **SplashActivity의 경우, AppCompat로 설정**되어있었습니다.
 
@@ -39,11 +39,11 @@ splash 동작 이후에 업데이트 확인용 다이얼로그를 추가하기 �
 
 다른 팀원이 작업하던 곳의 추가 작업을 맡으면서 기본적인 사항을 신경 쓰지 못한 것이 문제였네요!
 
-## 💡 해결
+## ❗ 해결
 
 ![image](https://user-images.githubusercontent.com/39720852/184856385-4f136471-c324-46e2-a267-05b3973b4b84.png)
 
-**<span style="background-color:#fff5b1">SplashActivity의 테마를 Material로 변경</span>**하니 정상적으로 실행되었습니다.
+**<span style="background-color:#dcffe4">SplashActivity의 테마를 Material로 변경</span>**하니 정상적으로 실행되었습니다.
 
 ## 💡 느낀 점
 
@@ -52,6 +52,8 @@ splash 동작 이후에 업데이트 확인용 다이얼로그를 추가하기 �
 또한 다른 사람의 작업을 이어 받았을 경우, **기본적인 것부터 꼼꼼하게 확인**하는 것이 중요하다는 것을 알게 되었습니다.
 
 ---
+
+.
 
 자! 이렇게 해서 InvocationTargetException에 대해 알아봤는데요.
 
