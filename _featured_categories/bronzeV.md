@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /blog/algorithm/bronze-v
+permalink: /blog/algorithm/bronze-v/
 ---

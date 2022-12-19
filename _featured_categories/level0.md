@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Bronze III
+title: Level 0
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: bronze-III
+slug: level-0
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  백준 Bronze III 레벨 박살내기✍️
+  프로그래머스 Level 0(코딩테스트 입문) 박살내기✍️
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /blog/algorithm/bronze-iii/
+permalink: /blog/algorithm/level-0/
 ---
