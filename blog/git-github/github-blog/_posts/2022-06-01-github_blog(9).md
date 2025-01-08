@@ -1,7 +1,7 @@
 ---
 #071
 layout: post
-title: "GitHub 블로그 만들기(9) - build error"
+title: "GitHub 블로그 만들기 (9) - build error"
 image: https://user-images.githubusercontent.com/39720852/190166671-9cd79a21-8f14-4e17-8d41-78d6e2dd9405.png
 accent_image:
   background: url(https://user-images.githubusercontent.com/39720852/152405232-29b296d1-653c-4505-ad3c-07fd5a680d17.png) center/cover
@@ -20,6 +20,8 @@ related_posts:
 안녕하세요, 해을입니다🦖
 
 이번 글에서는 <span style="background-color:#f1f8ff">**GitHub 블로그 build error**</span>에 대해 알아보겠습니다!
+
+**GitHub 블로그가 로컬 서버에서 동작하지 않거나 원격 저장소에 업로드 시 에러가 발생**하는 경우 참고하시면 좋을 것 같습니다. 
 
 * toc
 {:toc}
@@ -59,8 +61,10 @@ github-pages 227 | Error:  The jekyll-theme-hydejack theme could not be found.
 
 단, **로컬**에서 블로그를 확인할 때는 **반대로** 설정해야 확인 가능합니다.
 
-* theme : 주석 O
-* remote_theme : 주석 X
+아래와 같이 설정하지 않으면 <span style="background-color:#FFE6E6">**GitHub 블로그가 로컬 서버에서 동작하지 않기 때문에 주의**</span>해서 작업하시길 바랍니다.
+
+* theme : 주석 X
+* remote_theme : 주석 O
 
 ---
 
@@ -71,7 +75,9 @@ github-pages 227 | Error:  The jekyll-theme-hydejack theme could not be found.
 로컬과 리모트 설정이 꼬여서 발생한 에러였는데요.
 
 작업을 마친 후, 로컬 기준으로 설정한 파일을 함께 커밋하지 않도록 주의해야겠습니다.
-<br/><br/><br/>
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
