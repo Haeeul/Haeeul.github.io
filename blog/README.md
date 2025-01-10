@@ -25,6 +25,7 @@ permalink: /blog/
 
 - [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이🔗
 - [Git/GitHub]{:.heading.flip-title} --- Git 사용법, 명령어, 블로그 생성 등 Git-GitHub 관련😼
+- [Etc-dev]{:.heading.flip-title} --- 알아두면 쓸모있는 이것저것🔎
 
 [android]: /blog/android/
 [app]: /blog/app/
@@ -33,5 +34,6 @@ permalink: /blog/
 [kotlin]: /blog/kotlin/
 [java]: /blog/java/
 [python]: /blog/python/
-[git/github]: /blog/git-github/
 [algorithm]: /blog/algorithm
+[git/github]: /blog/git-github/
+[Etc-dev]: /blog/etc-dev/

@@ -35,10 +35,10 @@ tags: [VSCode error, Microsoft IME]
 2. **[ `언어 및 지역` ]** 메뉴 클릭
     ![image](https://github.com/user-attachments/assets/858ea398-846e-44ec-b635-e6783a2ddc52)
 
-3. **[ `한국어` 메뉴의 우측 `더보기` 클릭 > `언어 옵션` 클릭 ]**
+3. **[ `한국어` 메뉴의 우측 `더보기` > `언어 옵션` ] 클릭**
     ![image](https://github.com/user-attachments/assets/e1bea4e6-b4e6-42fe-ace5-a67247c1eacf)
 
-4. **[ `Microsoft 입력기` 메뉴의 우측 `더보기` 클릭 > `키보드 옵션` 클릭 ]**
+4. **[ `Microsoft 입력기` 메뉴의 우측 `더보기` > `키보드 옵션` ] 클릭**
     ![image](https://github.com/user-attachments/assets/7f53aeac-5b2c-43c5-915d-3f2d051f8cf8)
 
 5. **`호환성` `켬`**으로 설정
