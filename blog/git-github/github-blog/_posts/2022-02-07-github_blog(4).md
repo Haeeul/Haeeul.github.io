@@ -322,20 +322,30 @@ etc 카테고리를 추가하기 위해 **_featured_categories 폴더**에 있�
 
 ---
 
+.
+
 자! 이렇게 해서 Github 블로그 테마를 커스텀 해봤습니다.
 
 자신만의 개성 있는 블로그로 변한 모습이 설레지 않나요😝
 
 다음 글에서는 <span style="background-color:#f1f8ff">**블로그 게시글 작성**</span>에 대해서 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (5) - 블로그 게시글 작성](/blog/git-github/github-blog/2022-02-08-github_blog(5))
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (5) - 블로그 게시글 작성](/blog/git-github/2022-02-08-github_blog(5))
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [[GithubPages] 하루만에 만드는 깃허브 블로그-03.커스텀하기](https://khw11044.github.io/blog/githubpages/2020-12-26-making-blog-03/)

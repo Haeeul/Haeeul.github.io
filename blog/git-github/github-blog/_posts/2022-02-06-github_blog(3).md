@@ -115,22 +115,30 @@ git push -u origin main
 
 ---
 
-<br/>
+.
+
 자! 이렇게 해서 Github 블로그에 테마를 적용해 봤습니다.
 
 커스텀 할 생각에 조금 신나는 기분이네요😝
 
 다음 글에서는 <span style="background-color:#f1f8ff">**블로그 커스텀**</span>에 대해서 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (4) - 블로그 커스텀](/blog/git-github/github-blog/2022-02-07-github_blog(4))
+
+.
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (4) - 블로그 커스텀](/blog/git-github/2022-02-07-github_blog(4))
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [왕초보를 위한 Github 블로그 만들기(2)](https://zeddios.tistory.com/1223?category=682196)
 * [[GithubPages] 하루만에 만드는 깃허브 블로그-02.시작하기](https://khw11044.github.io/blog/githubpages/2020-12-26-making-blog-02/)

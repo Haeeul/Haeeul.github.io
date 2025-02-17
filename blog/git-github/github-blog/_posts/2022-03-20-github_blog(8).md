@@ -99,21 +99,31 @@ commit, push를 통해 저장소에 업로드한 뒤에
 
 ---
 
+.
+
 자! 이렇게 해서 구글에 Github 블로그가 검색되도록 해봤습니다.
 
 구글에서 내 블로그를 검색할 수 있다니 설레지 않나요😝
 
 다음 글에서는 새로운 기능을 추가하게 되면 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (9) - build error](/blog/git-github/github-blog/2022-09-14-github_blog(9))
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/>
-<!-- 🔗 다음 글 바로가기 [GitHub 블로그 만들기 (5) - 블로그 게시글 작성](/blog/git-github/2022-02-08-github_blog(5)) -->
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [[Github Blog] 검색창 노출시키기](https://velog.io/@eona1301/Github-Blog-%EA%B2%80%EC%83%89%EC%B0%BD-%EB%85%B8%EC%B6%9C%EC%8B%9C%ED%82%A4%EA%B8%B0)
 * [깃허브 블로그 구글 검색 가능하게 하기](https://ip99202.github.io/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EA%B8%80-%EA%B2%80%EC%83%89-%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0/)

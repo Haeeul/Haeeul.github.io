@@ -179,22 +179,31 @@ git push -u origin main
 
 ---
 
-<br/>
+.
+
 자! 이렇게 해서 Jekyll을 설치해 봤습니다.
 
 이제 테마를 적용할 생각에 설레네요😝
 
 다음 글에서는 <span style="background-color:#f1f8ff">**테마 적용하는 법**</span> 에 대해서 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (3) - Jekyll 테마 적용](/blog/git-github/github-blog/2022-02-06-github_blog(3))
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (3) - Jekyll 테마 적용](/blog/git-github/2022-02-06-github_blog(3))
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [GitHub Pages 공식 문서](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#front-matter)
 * [How to Jekyll?](https://wikidocs.net/91460)

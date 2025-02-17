@@ -191,20 +191,31 @@ html 문법을 사용하여 글자의 색 또는 배경색을 변경할 수 있�
 
 ---
 
+.
+
 자! 이렇게 해서 Github 블로그 게시글 작성 방법을 살펴봤습니다.
 
 첫 포스팅할 생각에 신나지 않나요😝
 
 다음 글에서는 <span style="background-color:#f1f8ff">**블로그 댓글 기능**</span>에 대해서 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (6) - 블로그 댓글 기능](/blog/git-github/
+github-blog/2022-02-09-github_blog(6))
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (6) - 블로그 댓글 기능](/blog/git-github/2022-02-09-github_blog(6))
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [Hydejack 공식문서](https://hydejack.com/docs/)

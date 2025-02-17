@@ -129,21 +129,31 @@ utterances는 **GitHub 이슈 기능을 기반으로 한 댓글 위젯**입니�
 
 ---
 
+.
+
 자! 이렇게 해서 Github 블로그 댓글 기능을 추가해 봤습니다.
 
 댓글을 통해 방문자분들과 소통할 생각에 기대되지 않나요😝
 
 다음 글에서는 트래픽을 추적할 수 있는 <span style="background-color:#f1f8ff">**구글 애널리틱스 기능**</span>에 대해서 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (7) - 구글 애널리틱스 기능](/blog/git-github/github-blog/2022-02-10-github_blog(7))
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (7) - 구글 애널리틱스 기능](/blog/git-github/2022-02-10-github_blog(7))
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [[GithubPages] 하루만에 만드는 깃허브 블로그-07.댓글기능 추가하기](https://khw11044.github.io/blog/githubpages/2020-12-26-making-blog-07/)
 * [[Github 블로그] utterances 으로 댓글 기능 만들기 (+ disqus 비추후기)](https://ansohxxn.github.io/blog/utterances/)

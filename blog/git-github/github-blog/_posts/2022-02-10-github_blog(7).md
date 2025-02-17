@@ -138,21 +138,31 @@ Hydejack의 경우, UA로 시작하므로 **추적 ID**를 사용해야 합니�
 
 ---
 
+.
+
 자! 이렇게 해서 Github 블로그에 구글 애널리틱스 기능을 추가해 봤습니다.
 
 어떤 분들이 블로그에 방문해 주실지 무척 기대되지 않나요😝
 
 다음 글에서는 구글에서 블로그를 검색할 수 있도록 하는 <span style="background-color:#f1f8ff">**구글 서치 콘솔**</span>에 대해서 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
+
+.
+
+🔗 다음 글 바로가기 [GitHub 블로그 만들기 (8) - 구글 서치 콘솔](/blog/git-github/github-blog/2022-03-20-github_blog(8))
+
+.
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/><br/><br/>
-🔗 다음 글 바로가기 [GitHub 블로그 만들기 (8) - 구글 서치 콘솔](/blog/git-github/2022-03-20-github_blog(8))
 
-## 👍 참고
+.
+
+---
+
+**👍 참고**
 
 * [[GithubPages] 하루만에 만드는 깃허브 블로그-08.조회수 나타내기](https://khw11044.github.io/blog/githubpages/2020-12-26-making-blog-08/)
 * [티스토리 구글 애널리틱스 연결(추적ID와 측정ID)](https://pujin28.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%EC%97%B0%EA%B2%B0-%EC%B6%94%EC%A0%81-ID%EC%99%80-%EC%B8%A1%EC%A0%95-ID)
