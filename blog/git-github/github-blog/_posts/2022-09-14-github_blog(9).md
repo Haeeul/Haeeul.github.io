@@ -82,7 +82,7 @@ github-pages 227 | Error:  The jekyll-theme-hydejack theme could not be found.
 
 .
 
-**오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
+**오류 및 오타 등 피드백, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 

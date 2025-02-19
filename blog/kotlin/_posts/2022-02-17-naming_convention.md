@@ -86,7 +86,7 @@ tags: [camel case, pascal case, snake case, hungarian notation, kebab case]
 
 다음 글에서는 <span style="background-color:#f1f8ff">**코틀린 코딩 컨벤션**</span>에 대해서 소개해 드리도록 하겠습니다.
 <br/><br/><br/>
-**오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
+**오류 및 오타 등 피드백, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 

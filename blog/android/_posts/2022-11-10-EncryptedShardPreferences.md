@@ -114,15 +114,18 @@ var userNickname: String
 글을 읽어주신 분들께 도움이 됐으면 좋겠습니다😊
 
 다음 글에서는 또 다른 android 관련 내용에 대해 소개해 드리도록 하겠습니다.
-<br/><br/><br/>
-**오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
+
+.
+
+**오류 및 오타 등 피드백, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
 
 끝!🦕
-<br/>
 
-## 👍 참고
+.
+
+**👍 참고**
 
 - [안드로이드 공식 문서](https://developer.android.com/reference/kotlin/androidx/security/crypto/EncryptedSharedPreferences?hl=ko)
 - [[kotlin] android EncryptedSharedPreferences example](https://shary1012.tistory.com/223)
