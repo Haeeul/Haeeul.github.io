@@ -12,9 +12,9 @@ tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, error]
 description: >
   📝 GitHub 블로그의 build error를 해결합니다.
 related_posts:
-  - /blog/git-github/2022-02-08-github_blog(6)/
-  - /blog/git-github/2022-02-09-github_blog(7)/
-  - /blog/git-github/2022-02-10-github_blog(8)/
+  - /blog/git-github/github-blog/2022-02-10-github_blog(7)/
+  - /blog/git-github/github-blog/2022-03-20-github_blog(8)/
+  - /blog/git-github/github-blog/2025-01-13-github_blog(10)/
 ---
 
 안녕하세요, 해을입니다🦖

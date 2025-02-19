@@ -12,9 +12,9 @@ tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, analytics]
 description: >
   📝 GitHub 블로그에 구글 애널리틱스 기능을 추가합니다.
 related_posts:
-  - /blog/git-github/2022-02-08-github_blog(5)/
-  - /blog/git-github/2022-02-09-github_blog(6)/
-  - /blog/git-github/2022-03-20-github_blog(8)/
+  - /blog/git-github/github-blog/2022-02-08-github_blog(5)/
+  - /blog/git-github/github-blog/2022-02-09-github_blog(6)/
+  - /blog/git-github/github-blog/2022-03-20-github_blog(8)/
 ---
 
 안녕하세요, 해을입니다🦖

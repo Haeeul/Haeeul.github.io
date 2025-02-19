@@ -12,9 +12,9 @@ tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, Google, search console]
 description: >
   📝 구글에 GitHub 블로그가 검색되도록 합니다.
 related_posts:
-  - /blog/git-github/2022-02-08-github_blog(5)/
-  - /blog/git-github/2022-02-09-github_blog(6)/
-  - /blog/git-github/2022-02-10-github_blog(7)/
+  - /blog/git-github/github-blog/2022-02-09-github_blog(6)/
+  - /blog/git-github/github-blog/2022-02-10-github_blog(7)/
+  - /blog/git-github/github-blog/2022-09-14-github_blog(9)/
 ---
 
 안녕하세요, 해을입니다🦖

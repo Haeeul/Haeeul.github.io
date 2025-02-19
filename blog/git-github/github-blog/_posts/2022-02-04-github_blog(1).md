@@ -12,9 +12,9 @@ tags: [GitHub Pages, GitHub blog]
 description: >
   🥨 GitHub Pages에 대해 알아보고 블로그를 생성해 봅니다.
 related_posts:
-  - /blog/git-github/2022-02-05-github_blog(2)/
-  - /blog/git-github/2022-02-06-github_blog(3)/
-  - /blog/git-github/2022-02-07-github_blog(4)/
+  - /blog/git-github/github-blog/2022-02-05-github_blog(2)/
+  - /blog/git-github/github-blog/2022-02-06-github_blog(3)/
+  - /blog/git-github/github-blog/2022-02-07-github_blog(4)/
 ---
 
 

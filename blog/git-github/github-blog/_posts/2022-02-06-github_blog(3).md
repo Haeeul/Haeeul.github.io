@@ -12,9 +12,9 @@ tags: [GitHub Pages, GitHub blog, Jekyll, Jekyll theme, Hydejack theme]
 description: >
   🎨 GitHub 블로그에 테마를 적용해 봅니다.
 related_posts:
-  - /blog/git-github/2022-02-05-github_blog(2)/
-  - /blog/git-github/2022-02-07-github_blog(4)/
-  - /blog/git-github/2022-02-08-github_blog(5)/
+  - /blog/git-github/github-blog/2022-02-05-github_blog(2)/
+  - /blog/git-github/github-blog/2022-02-07-github_blog(4)/
+  - /blog/git-github/github-blog/2022-02-08-github_blog(5)/
 ---
 
 안녕하세요, 해을입니다🦖
@@ -128,6 +128,7 @@ git push -u origin main
 🔗 다음 글 바로가기 [GitHub 블로그 만들기 (4) - 블로그 커스텀](/blog/git-github/github-blog/2022-02-07-github_blog(4))
 
 .
+
 **오류 및 오타 지적, 질문, 인사** 등 무엇이든 언제나 환영입니다!
 
 읽어주셔서 감사합니다.
