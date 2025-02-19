@@ -8,17 +8,24 @@ sitemap: false
 permalink: /blog/algorithm/
 ---
 
-## 백준 - BaekJoon
+## 알고리즘
+
+- [Base]{:.heading.flip-title}
+
+## 문제 풀이
+
+### 🚩백준 - BaekJoon
 
 - [Bronze II]{:.heading.flip-title}
 - [Bronze III]{:.heading.flip-title}
 - [Bronze IV]{:.heading.flip-title}
 - [Bronze V]{:.heading.flip-title}
 
-## 프로그래머스 - Programmers
+### 🚩프로그래머스 - Programmers
 
 - 코딩테스트 입문 : [level 0]{:.heading.flip-title}
 
+[Base]: /blog/algorithm/base/
 [Bronze II]: /blog/algorithm/bronze-ii/
 [Bronze III]: /blog/algorithm/bronze-iii/
 [Bronze IV]: /blog/algorithm/bronze-iv/
